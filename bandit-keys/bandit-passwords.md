@@ -12,3 +12,4 @@
 10. Bandit level 10 password: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
 11. Bandit level 11 password: pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
 12. Bandit level 12 password: GROozWPO8QyN0mGrjUkID0WCYkZiQxrN
+13. Bandit level 13 password: qQYQiHOBPR8zR61qxYqX45quvihF2uzk
