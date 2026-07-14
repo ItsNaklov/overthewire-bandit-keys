@@ -14,3 +14,5 @@
 12. Bandit level 12 password: GROozWPO8QyN0mGrjUkID0WCYkZiQxrN
 13. Bandit level 13 password: qQYQiHOBPR8zR61qxYqX45quvihF2uzk
 14. Bandit level 14 password: Logged into the server as bandit13 and found the file "sshkey.private" in the home directory. Knowing the location of the file I can transfer it to my machine by using scp. Permission adjust to chmod 700 to get access to bandit14 by ssh -i sshkey.private bandit14@bandit.labs.overthewire.org -p 2220 we got into the server as bandit14.
+15. Bandit level 15 password: pbLYuZtTg4MgaqfJx8jbA9gKKGqM68A7
+16. Bandit level 16 password: kS0Hf0u5HiXFwKMKFqXvPdOTNGGa0X8V
