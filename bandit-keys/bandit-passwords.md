@@ -17,3 +17,4 @@
 15. Bandit level 15 password: pbLYuZtTg4MgaqfJx8jbA9gKKGqM68A7
 16. Bandit level 16 password: kS0Hf0u5HiXFwKMKFqXvPdOTNGGa0X8V
 17. Bandit level 17 password: For getting inside of bandit 17 I identify localhost ports with nmap after used openssl s_client to find out the right port. Once connected I past the bandit16 password. I had public key Create a file give chmod 600 permission connect with ssh -i. What I did is Port scanning, Service Discovery, SSH Key (RSA).
+18. Bandit level 18 password: OQxXZjELndr90zuhOTDYBEomI0SZITXI
