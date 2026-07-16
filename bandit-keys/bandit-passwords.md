@@ -19,4 +19,4 @@
 17. Bandit level 17 password: For getting inside of bandit 17 I identify localhost ports with nmap after used openssl s_client to find out the right port. Once connected I past the bandit16 password. I had public key Create a file give chmod 600 permission connect with ssh -i. What I did is Port scanning, Service Discovery, SSH Key (RSA).
 18. Bandit level 18 password: OQxXZjELndr90zuhOTDYBEomI0SZITXI
 19. Bandit level 19 password: KpsOfPkcP7i1FlIExk2QEjyt6dw8dxZI
-20. Bandit level 20 password: 4pIjcunZ0fK2vmp3IwfG8Vf7VhxD6pOA
+20. Bandit level 20 password: 4pIjcunZ0fK2vmp3IwfG8Vf7VhxD6pOA Takeaways: SUID(SetUID) Indicated by an "s" in file permissions. It grants the executor the temporary permissions of the file owner. This is critical for system security.Effective UID: The identity the OS uses for permission checks, distinct from the real user ID.
