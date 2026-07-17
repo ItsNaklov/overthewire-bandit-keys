@@ -20,3 +20,4 @@
 18. Bandit level 18 password: OQxXZjELndr90zuhOTDYBEomI0SZITXI
 19. Bandit level 19 password: KpsOfPkcP7i1FlIExk2QEjyt6dw8dxZI
 20. Bandit level 20 password: 4pIjcunZ0fK2vmp3IwfG8Vf7VhxD6pOA Takeaways: SUID(SetUID) Indicated by an "s" in file permissions. It grants the executor the temporary permissions of the file owner. This is critical for system security.Effective UID: The identity the OS uses for permission checks, distinct from the real user ID.
+21. Bandit level 21 password: bW9kBv5WC3P4yoDyf12LSdGuNz5ka6hY Takeaways: Job control (&): It allows running commands in the background, freeing up the terminal from other tasks. Reverse Connection: Instead of attacking a target directly, we force the target to connect back to us (Similar to reverse shell concepts)
