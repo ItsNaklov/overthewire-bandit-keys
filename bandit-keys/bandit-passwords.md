@@ -45,3 +45,5 @@
 22. Bandit level 22 password: RYVux2rHEm9tiXHmLFzuR7Vhx6AZQMEz Takeaways: Cron / Crontab: Linux's scheduled task mechanism. It is a must for system administration for tasks like backups. Tracing Execution: Starting from a clue (cron file), finding the executed script, and reading it's code to understand it's behaviour. Fundamental skill in security.
 
 23. Bandit level 23 password: gKXDTAXnIz3OBxiPjRZ2uqutUlPZrBsw
+
+24. Bandit level 24 password: hVQMk3lJNsmQ7VF3ubyrNNBom7BOgVXv
