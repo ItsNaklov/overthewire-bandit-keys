@@ -49,3 +49,5 @@
 24. Bandit level 24 password: hVQMk3lJNsmQ7VF3ubyrNNBom7BOgVXv
 
 25. Bandit level 25 password: SoHfqMOEqIX2IYKVciZxvgpR9a2Djx4P
+
+26. Bandit level 26 password: jHdv2ELQhT22BkprMNDjybZDAkw1zeBJ
